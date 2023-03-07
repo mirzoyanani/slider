@@ -1,0 +1,10 @@
+.slider{
+    border:2px solid;
+    width:500px;
+    height: 300px;
+    display: flex;
+}
+img{
+    height: 300px;
+    width: 415px;
+}
